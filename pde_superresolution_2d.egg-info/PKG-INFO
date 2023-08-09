@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: pde-superresolution-2d
-Version: 0.0.0
-Home-page: https://github.com/google-research/pde-superresolution-2d
-Author: Google LLC
-Author-email: noreply@google.com
-License: Apache 2.0
-Requires-Python: >=3
-License-File: LICENSE

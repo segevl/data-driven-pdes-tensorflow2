@@ -1,5 +1,0 @@
-absl-py
-apache-beam
-numpy
-scipy
-xarray
